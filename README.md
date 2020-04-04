@@ -6,4 +6,6 @@
 
 Xente is an e-payments, e-commerce, and financial services company in Uganda offering various products and services that can be paid for using Mobile Money (Airtel Money, MTN Mobile Money), Bank Card (Visa Card, Master Card), Xente wallet and on credit (Pay Later). Some of the products consumers can buy include airtime, data bundles, event tickets, movie tickets, bus tickets, and more. They can also pay water and electricity bills and TV subscription services. [See more about the company ](https://www.xente.co/)
 
-# [383 data scientists enrolled, 40 on the leaderboard. My team got the 8th out of](https://zindi.africa/users/Mohie_eldin/competitions/certificate)
+# 383 data scientists enrolled, 40 on the leaderboard. My team got the 8th 
+
+# [Check out my Certificate](https://zindi.africa/users/Mohie_eldin/competitions/certificate)
